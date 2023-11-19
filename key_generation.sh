@@ -1,0 +1,1 @@
+ssh-keygen -t rsa -f ./keypairs/my_keypair -N ''
